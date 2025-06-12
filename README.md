@@ -1,0 +1,1 @@
+This project is a dummy data analysis of Ola ride bookings using SQL. The aim is to perform various analytical operations on ride data to extract meaningful insights and demonstrate data handling skills.
