@@ -52,5 +52,4 @@ Revenue distribution by payment method
 Top customers and vehicles by distance/fare
 
 🖼️ Screenshots
-Add screenshots of your Power BI dashboard or SQL results here.
-You can upload .png or .jpg files in the repo and link them like this:
+https://github.com/sudarshan1405/OLA_PROJECT/blob/main/OLA%20DASHBOARD.png
