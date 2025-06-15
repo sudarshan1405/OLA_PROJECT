@@ -4,7 +4,7 @@ A data analysis project based on a fictional Ola ride-sharing dataset. This proj
 <h2>📌 Short Description</h2>
 This project demonstrates the use of SQL and Power BI to analyze real-world ride-sharing data. It includes 10 SQL queries covering core business questions and 10 Power BI visualizations to represent trends and insights clearly. Ideal for beginners and aspiring data analysts to showcase hands-on data analysis skills.
 
-<h3>🛠️ Tech Stack</h3>
+<h2>🛠️ Tech Stack</h2>
 SQL (MySQL) – Data querying and transformation
 
 Power BI – Dashboard and visualization
@@ -13,7 +13,7 @@ Excel – Data formatting and basic preprocessing
 
 GitHub – Version control and project hosting
 
-<h4>📂 Data Source</h4>
+<h2>📂 Data Source</h2>
 The dataset is a dummy Ola ride-sharing dataset created for learning purposes. It includes columns related to:
 
 Customer and driver details
@@ -26,7 +26,7 @@ Distance, fare, and payment method
 
 Ratings and ride cancellation reasons
 
-<h5>🌟 Features & Highlights</h5>
+<h2>🌟 Features & Highlights</h2>
 ✅ SQL Analysis
 Retrieve successful and incomplete bookings
 
