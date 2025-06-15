@@ -52,4 +52,8 @@ Revenue distribution by payment method
 Top customers and vehicles by distance/fare
 
 🖼️ Screenshots
-https://github.com/sudarshan1405/OLA_PROJECT/blob/main/OLA%20DASHBOARD.png
+![Ride Volume Over Time](screenshots/ride_volume.png)
+![Dash board preview](https://github.com/sudarshan1405/OLA_PROJECT/blob/main/OLA%20DASHBOARD.png
+)
+
+
